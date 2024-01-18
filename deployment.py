@@ -1,6 +1,5 @@
 import streamlit as st
 import streamlit.components.v1 as components 
-import cv2 
 import numpy as np 
 import streamlit_option_menu as option_menu
 from PIL import Image, ImageDraw
